@@ -1,7 +1,5 @@
-# Dsquares-AI-Assistant
+# 🤖 Dsquares-AI-Assistant
 Chatbot to chat with project documentation
-# README
-
 ### Introduction
 In a competitive world where time is money and efficiency is key, companies search hard for the fastest and most efficient ways to do their tasks. While companies struggle with tabular data, unstructured data is more tricky and harder to deal with. Since many corporates have tremendous amounts of documents for their different projects, employees may need to search for specific project documentation in a huge pool of documents for hours to find just a small piece of information. Dsquares’ choice to overcome this challenge is to utilize one of the most transformative technologies that have been making headlines: LLMs (i.e., Large Language Models). Here is our contribution: we have developed a chatbot that utilizes the knowledge of an LLM model to search these documents and provide the user with answers that depend on RAG (i.e., Retrieval Augmented Generation) to build this knowledge base.
 
