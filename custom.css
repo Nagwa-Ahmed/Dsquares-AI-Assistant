@@ -1,0 +1,48 @@
+/* custom.css */
+body {
+    background-color: #F4B4B4;
+}
+
+.sidebar {
+    background-color: #0971CE;
+}
+
+h1, h2, h3, h4, h5, h6 {
+    color: #0971CE;
+}
+
+/* Style for buttons */
+.stButton > button {
+    background-color: white; /* Background color of the button */
+    color: #0971CE; /* Text color of the button */
+    border: none; /* Remove border from the button */
+    border-radius: 5px; /* Optional: adds rounded corners */
+    padding: 10px 20px; /* Optional: adjusts padding inside the button */
+    text-decoration: none; /* Ensure no text decorations */
+}
+
+.stButton > button:hover {
+    background-color: white; /* Keeps the background color on hover */
+    color: #0971CE; /* Keeps the text color on hover */
+    border: none; /* Keeps no border on hover */
+}
+
+.stButton > button:focus {
+    background-color: white; /* Keeps the background color on focus */
+    color: #0971CE; /* Keeps the text color on focus */
+    border: none; /* Keeps no border on focus */
+    outline: none; /* Removes default focus outline */
+}
+
+/* Style for chat message containers */
+.css-1aumxhk {
+    border: 2px solid #0971CE; /* Border color for the message container */
+    border-radius: 10px; /* Optional: adds rounded corners */
+    padding: 10px; /* Optional: adds padding inside the message container */
+    margin-bottom: 10px; /* Optional: adds space below each message container */
+}
+
+/* Different color for assistant messages */
+.css-1aumxhk.st-chat-message-assistant {
+    border-color: #F4B4B4; /* Border color for assistant messages */
+}
